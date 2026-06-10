@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 550" width="860" height="550">
+
+  <rect width="860" height="550" fill="#0d1117"/>
+
+  <text x="32" y="38" font-size="11" fill="#58a6ff" letter-spacing="4" font-weight="700" font-family="system-ui,-apple-system,sans-serif">// BOOKSHELF</text>
+  <text x="32" y="56" font-size="11" fill="#30363d" font-family="system-ui,-apple-system,sans-serif">not a complete list — enough to show the pattern</text>
+  <line x1="32" y1="66" x2="828" y2="66" stroke="#21262d" stroke-width="1"/>
+
+  <rect x="32" y="80" width="190" height="250" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="32" y="80" width="190" height="3" rx="2" fill="#a371f7"/>
+  <text x="50" y="106" font-size="9" fill="#a371f7" letter-spacing="2" font-weight="700" font-family="system-ui,-apple-system,sans-serif">STOIC</text>
+  <text x="50" y="130" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Meditations</text>
+  <text x="50" y="146" font-size="11" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Marcus Aurelius</text>
+  <text x="50" y="166" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Letters to Lucilius</text>
+  <text x="50" y="182" font-size="11" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Seneca</text>
+  <text x="50" y="202" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Enchiridion</text>
+  <text x="50" y="218" font-size="11" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Epictetus</text>
+  <text x="50" y="238" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">De Bello Gallico</text>
+  <text x="50" y="254" font-size="11" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Caesar</text>
+
+  <rect x="234" y="80" width="190" height="250" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="234" y="80" width="190" height="3" rx="2" fill="#f78166"/>
+  <text x="252" y="106" font-size="9" fill="#f78166" letter-spacing="2" font-weight="700" font-family="system-ui,-apple-system,sans-serif">EASTERN &amp; SPIRIT</text>
+  <text x="252" y="130" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Tao Te Ching</text>
+  <text x="252" y="146" font-size="11" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Laozi</text>
+  <text x="252" y="166" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Bhagavad Gita</text>
+  <text x="252" y="186" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Talks</text>
+  <text x="252" y="202" font-size="11" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Ramana Maharshi</text>
+  <text x="252" y="222" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Theory of Everything</text>
+  <text x="252" y="238" font-size="11" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">McKenna</text>
+
+  <rect x="436" y="80" width="190" height="250" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="436" y="80" width="190" height="3" rx="2" fill="#58a6ff"/>
+  <text x="454" y="106" font-size="9" fill="#58a6ff" letter-spacing="2" font-weight="700" font-family="system-ui,-apple-system,sans-serif">PHILOSOPHY</text>
+  <text x="454" y="130" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Pensées</text>
+  <text x="454" y="146" font-size="11" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Pascal</text>
+  <text x="454" y="166" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Science of Logic</text>
+  <text x="454" y="182" font-size="11" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Hegel</text>
+
+  <rect x="638" y="80" width="190" height="250" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="638" y="80" width="190" height="3" rx="2" fill="#39d3c3"/>
+  <text x="656" y="106" font-size="9" fill="#39d3c3" letter-spacing="2" font-weight="700" font-family="system-ui,-apple-system,sans-serif">CONSCIOUSNESS</text>
+  <text x="656" y="130" font-size="13" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">The Doors of Perception</text>
+  <text x="656" y="146" font-size="11" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Huxley</text>
+
+  <rect x="32" y="346" width="392" height="168" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="32" y="346" width="392" height="3" rx="2" fill="#3fb950"/>
+  <text x="50" y="372" font-size="9" fill="#3fb950" letter-spacing="2" font-weight="700" font-family="system-ui,-apple-system,sans-serif">LITERATURE</text>
+
+  <text x="50" y="396" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Count of</text>
+  <text x="50" y="411" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Monte Cristo</text>
+  <text x="50" y="426" font-size="10" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Dumas</text>
+  
+  <text x="50" y="454" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Ward No. 6</text>
+  <text x="50" y="469" font-size="10" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Chekhov</text>
+
+  <text x="178" y="396" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Journey to the</text>
+  <text x="178" y="411" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">End of the Night</text>
+  <text x="178" y="426" font-size="10" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Céline</text>
+  
+  <text x="178" y="454" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">An American</text>
+  <text x="178" y="469" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Tragedy</text>
+  <text x="178" y="484" font-size="10" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Dreiser</text>
+
+  <text x="306" y="396" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Alice in</text>
+  <text x="306" y="411" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Wonderland</text>
+  <text x="306" y="426" font-size="10" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Carroll</text>
+  
+  <text x="306" y="454" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">The Catcher</text>
+  <text x="306" y="469" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">in the Rye</text>
+  <text x="306" y="484" font-size="10" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Salinger</text>
+
+
+  <rect x="436" y="346" width="392" height="168" rx="6" fill="#161b22" stroke="#21262d" stroke-width="1"/>
+  <rect x="436" y="346" width="392" height="3" rx="2" fill="#e3b341"/>
+  <text x="454" y="372" font-size="9" fill="#e3b341" letter-spacing="2" font-weight="700" font-family="system-ui,-apple-system,sans-serif">DARK &amp; ABSURD</text>
+  
+  <text x="454" y="396" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">One Flew Over</text>
+  <text x="454" y="411" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">the Cuckoo's Nest</text>
+  <text x="454" y="426" font-size="10" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Kesey</text>
+  
+  <text x="454" y="454" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Lord of the Flies</text>
+  <text x="454" y="469" font-size="10" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Golding</text>
+
+  <text x="634" y="396" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">Pincher Martin</text>
+  <text x="634" y="426" font-size="10" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Golding</text>
+  
+  <text x="634" y="454" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">At the Mountains</text>
+  <text x="634" y="469" font-size="12" fill="#e6edf3" font-family="system-ui,-apple-system,sans-serif">of Madness</text>
+  <text x="634" y="484" font-size="10" fill="#484f58" font-family="system-ui,-apple-system,sans-serif">Lovecraft</text>
+
+  <line x1="32" y1="530" x2="828" y2="530" stroke="#21262d" stroke-width="1"/>
+  <text x="32" y="544" font-size="10" fill="#21262d" font-family="system-ui,-apple-system,sans-serif">19 books · 6 categories</text>
+
+</svg>
