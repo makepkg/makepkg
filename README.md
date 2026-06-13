@@ -30,12 +30,12 @@ const makepkg = {
 > One root. Three branches. All running in parallel.
 
 <details>
-<summary><b>⚙ Technical</b> &nbsp;—&nbsp; system · code · radio · hardware</summary>
+<summary><b>⚙ Technical</b> &nbsp;—&nbsp; system · code · radio · hardware &nbsp;<code>[ + ]</code></summary>
 
 <br>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;🖥 &nbsp;<b>System & Linux</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;🖥 &nbsp;<b>System & Linux</b> &nbsp;<code>[ + ]</code></summary>
 
 <br>
 
@@ -50,7 +50,7 @@ const makepkg = {
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;💻 &nbsp;<b>Programming</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;💻 &nbsp;<b>Programming</b> &nbsp;<code>[ + ]</code></summary>
 
 <br>
 
@@ -64,7 +64,7 @@ const makepkg = {
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;📡 &nbsp;<b>Radio & Embedded</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;📡 &nbsp;<b>Radio & Embedded</b> &nbsp;<code>[ + ]</code></summary>
 
 <br>
 
@@ -85,12 +85,12 @@ const makepkg = {
 ---
 
 <details>
-<summary><b>◈ Creative</b> &nbsp;—&nbsp; music · art · language</summary>
+<summary><b>◈ Creative</b> &nbsp;—&nbsp; music · art · language &nbsp;<code>[ + ]</code></summary>
 
 <br>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;🎸 &nbsp;<b>Music</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;🎸 &nbsp;<b>Music</b> &nbsp;<code>[ + ]</code></summary>
 
 <br>
 
@@ -103,13 +103,13 @@ const makepkg = {
 </details>
 
 <details>
-<summary>&nbsp;&nbsp;&nbsp;🖋 &nbsp;<b>Writing & Visual Art</b></summary>
+<summary>&nbsp;&nbsp;&nbsp;🖋 &nbsp;<b>Writing & Visual Art</b> &nbsp;<code>[ + ]</code></summary>
 
 <br>
 
 | | Skill | Notes |
 |:---:|---|---|
-| 🟢 | **Poetry** | EN · RU · UA — unfiltered |
+| 🟢 | **Poetry** | RU — unfiltered &nbsp;·&nbsp; [→](lyrics/Ничего%20не%20осталось%20прежним!.pdf) |
 | 🔵 | Painting & drawing | |
 | 🔵 | Photography | |
 | 🟡 | Typewriter restoration | mechanical repair · object poetry |
@@ -123,7 +123,7 @@ const makepkg = {
 ---
 
 <details>
-<summary><b>◉ Inner Arch</b> &nbsp;—&nbsp; philosophy · consciousness · inquiry</summary>
+<summary><b>◉ Inner Arch</b> &nbsp;—&nbsp; philosophy · consciousness · inquiry &nbsp;<code>[ + ]</code></summary>
 
 <br>
 
