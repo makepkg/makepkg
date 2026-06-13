@@ -148,7 +148,6 @@ const makepkg = {
 ---
 
 ## `// STACK`
-
 <div align="center">
 
 | 🖥 &nbsp;System | 💻 &nbsp;Languages | ⚡ &nbsp;Automation |
@@ -156,6 +155,8 @@ const makepkg = {
 | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat-square&logo=arch-linux&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) <br> ![systemd](https://img.shields.io/badge/systemd-000000?style=flat-square&logo=linux&logoColor=white) ![AUR](https://img.shields.io/badge/AUR-1793D1?style=flat-square&logo=arch-linux&logoColor=white) | ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) <br> ![JS](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white) <br> ![cron](https://img.shields.io/badge/cron-4d5a6e?style=flat-square) ![shell](https://img.shields.io/badge/shell_pipelines-4EAA25?style=flat-square) |
 | **🌐 &nbsp;Web** | **📡 &nbsp;Hardware & RF** | **🔒 &nbsp;Security** |
 | ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white) ![Astro](https://img.shields.io/badge/Astro-FF5D01?style=flat-square&logo=astro&logoColor=white) <br> ![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white) | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=flat-square) ![RPi](https://img.shields.io/badge/Raspberry_Pi-C51A4A?style=flat-square&logo=raspberrypi&logoColor=white) <br> ![RF/SDR](https://img.shields.io/badge/RF%2FSDR-f59e0b?style=flat-square) ![analog](https://img.shields.io/badge/analog-4d5a6e?style=flat-square) | ![OSINT](https://img.shields.io/badge/OSINT-f87171?style=flat-square) ![OPSEC](https://img.shields.io/badge/OPSEC-f59e0b?style=flat-square) <br> ![hardening](https://img.shields.io/badge/hardening-4d5a6e?style=flat-square) |
+| **🎬 &nbsp;Video** | **🎵 &nbsp;Audio** | **🖼 &nbsp;Graphics** |
+| ![Kdenlive](https://img.shields.io/badge/Kdenlive-527AA0?style=flat-square&logo=kdenlive&logoColor=white) | ![Studio One](https://img.shields.io/badge/Studio_One-4A8EB5?style=flat-square&logo=presonus&logoColor=white) | ![GIMP](https://img.shields.io/badge/GIMP-5C5543?style=flat-square&logo=gimp&logoColor=white) |
 
 </div>
 
